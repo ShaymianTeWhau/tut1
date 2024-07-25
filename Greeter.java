@@ -17,6 +17,7 @@ public class Greeter {
   }
 
   public static void main(String[] args) {
+    // this is a bug fix
     String language = args[0];
     String country = args[1];
     String name = args[2];
